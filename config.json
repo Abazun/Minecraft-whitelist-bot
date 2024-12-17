@@ -1,0 +1,9 @@
+{
+  "BOT_TOKEN":"",
+  "CLIENT_ID": "",
+  "GUILD_ID": "",
+  "MINECRAFT_SERVER": "",
+  "WHITELIST_JSON": "./src/minecraft/whitelist.json",
+  "MINECRAFT_RCON": 11111,
+  "MINECRAFT_RCON_PASS": ""
+}
