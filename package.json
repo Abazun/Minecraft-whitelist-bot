@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maztm",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "js-yaml": "^4.1.0",
+    "minecraft-server-util": "^3.5.2",
+    "node-mcstatus": "^1.2.0",
+    "webrconjs": "^1.0.0"
+  }
+}
